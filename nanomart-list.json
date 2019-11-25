@@ -1,0 +1,39 @@
+{
+  "nanomarts": [
+    {
+      "id": "N001.0001.0001",
+      "owner_id": "1",
+      "cognito_id": "1",
+      "address": "Bendungan Hilir Raya",
+      "location": "Geprek Bensu"
+    },
+    {
+      "id": "N002.0002.0002",
+      "owner_id": "2",
+      "cognito_id": "2",
+      "address": "Bendungan Hilir Raya",
+      "location": "Teras Benhill"
+    },
+    {
+      "id": "N003.0003.0003",
+      "owner_id": "3",
+      "cognito_id": "3",
+      "address": "Bendungan Hilir Raya",
+      "location": "Teras Benhill Mall Lt 2"
+    },
+    {
+      "id": "N004.0004.0004",
+      "owner_id": "4",
+      "cognito_id": "4",
+      "address": "Pejaten Village",
+      "location": "Penvill Mall"
+    },
+    {
+      "id": "N005.0005.0005",
+      "owner_id": "5",
+      "cognito_id": "5",
+      "address": "Kemang Village",
+      "location": "Kemang Coffe"
+    }
+  ]
+}

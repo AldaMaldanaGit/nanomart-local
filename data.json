@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "barcode_id": "00000111222",
+      "name": "Oishi Pollows",
+      "nanomart_id": "N001.0001.0001",
+      "price": "$5",
+      "description": "Lorem ipsum dolor sit amet",
+      "image_url": "",
+      "created_at": "-",
+      "update_at": "22/08/19"
+    },
+    {
+      "id": 2,
+      "barcode_id": "00000333444",
+      "name": "Kisses",
+      "nanomart_id": "N002.0002.0002",
+      "price": "$7",
+      "description": "Lorem ipsum dolor sit amet",
+      "image_url": "test.jpg",
+      "created_at": "-",
+      "update_at": "-"
+    },
+    {
+      "id": 3,
+      "barcode_id": "00000555666",
+      "name": "Fasial TIssue",
+      "nanomart_id": "N003.0003.0003",
+      "price": "$10",
+      "description": "Lorem ipsum dolor sit amet",
+      "image_url": "test.jpg",
+      "created_at": "-",
+      "update_at": "-"
+    },
+    {
+      "id": 4,
+      "barcode_id": "00000777888",
+      "name": "SaltCheese",
+      "nanomart_id": "N004.0004.0004",
+      "price": "$15",
+      "description": "Lorem ipshihiium dolor sit amet",
+      "image_url": "test.jpg",
+      "created_at": "-",
+      "update_at": "-"
+    },
+    {
+      "id": 5,
+      "barcode_id": "00000777999",
+      "name": "SilverQueen",
+      "nanomart_id": "N005.0005.0005",
+      "price": "$17",
+      "description": "Lorem ipshihiium dolor sit amet",
+      "image_url": "test.jpg",
+      "created_at": "-",
+      "update_at": "-"
+    }
+  ]
+}
